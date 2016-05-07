@@ -1,0 +1,44 @@
+section {
+	position: relative;
+  left: 75px;
+  top: 50px;	
+}
+
+.beats {
+	background-color: #ED1C24;
+	width: 527px;
+	height: 527px;
+	border-radius: 527px;
+	display: inline-block;
+}
+
+.beats-1 {
+  width: 55px;
+  height: 300px;
+  background-color: white;
+  position: absolute;
+  top: -35px;
+  left: 130px;
+}
+
+.beats-2 {
+	background-color: #FFFFFF;
+	width: 270px;
+	height: 270px;
+	border-radius: 270px;
+	display: inline-block;
+  position: relative;
+  top: 130px;
+  left: 130px;
+}
+
+.beats-3 {
+	background-color: #ED1C24;
+  width: 160px;
+  height: 160px;
+  border-radius: 160px;
+  display: inline-block;
+  position: relative;
+  top: 75px;
+  left: -345px;
+}
